@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <div>
         <h1>2d Terrain canvas</h1>
-        <h3>Draw terrain terrain(DEM) data.</h3>
+        <h3>Draw terrain(DEM) data.</h3>
       </div>
       <div>
         <Terrain2d/>
